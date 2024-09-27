@@ -19,8 +19,8 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: {
-    template: "%s | DocLink",
-    default: "DocLink",
+    template: "%s | MedCrizz",
+    default: "MedCrizz",
   },
   description: "The social media app for Medical Proffesionals and Students",
 };

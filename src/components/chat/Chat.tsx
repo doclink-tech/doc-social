@@ -95,7 +95,7 @@ export function Chat() {
             ) : (
               <>
                 {`Made by `}
-                <ExternalLink href="https://www.instagram.com/doc.link2024">DocLink</ExternalLink>
+                <ExternalLink href="https://www.instagram.com/doc.link2024">MedCrizz</ExternalLink>
               </>
             )}
           </div>
