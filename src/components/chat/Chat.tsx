@@ -50,7 +50,7 @@ export function Chat() {
     }
   }, []);
 
-  const placeholder = `Message ${getModelName(model)}`;
+  const placeholder = `How can i help you today?`;
 
   return (
     <div className="mx-auto flex w-full max-w-3xl flex-1 flex-col">
@@ -96,6 +96,9 @@ export function Chat() {
               <>
                 {`Made by `}
                 <ExternalLink href="https://www.instagram.com/doc.link2024">MedCrizz</ExternalLink>
+                {` with `}
+                <ExternalLink href="https://ai.meta.com/blog/meta-llama-3-1/">llama-3.1</ExternalLink >
+
               </>
             )}
           </div>
